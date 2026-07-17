@@ -33,18 +33,6 @@ Every repository here represents a step in my journey of learning, experimenting
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Karthik-D514&show_icons=true&hide_border=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-D514&layout=compact&hide_border=true&theme=github_dark"/>
-
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
